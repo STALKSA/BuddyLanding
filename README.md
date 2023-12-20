@@ -1,1 +1,1 @@
-# [Лендинг для стартапа](Abouthttps://main--buddylanguage-bot.netlify.app/)
+[Лендинг для стартапа](Abouthttps://main--buddylanguage-bot.netlify.app/)
