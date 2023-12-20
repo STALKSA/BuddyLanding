@@ -1,4 +1,4 @@
-#[Лендинг для стартапа](https://main--buddylanguage-bot.netlify.app/)
+# [Лендинг для стартапа](https://main--buddylanguage-bot.netlify.app/)
 
 ![Screenshotlanding](https://github.com/STALKSA/BuddyLanding/assets/109988277/0ed67b38-7d45-4430-9351-370c1f67e63f)
 
