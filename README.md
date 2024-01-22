@@ -4,3 +4,5 @@
 
 
 ![Screenshotlanding2](https://github.com/STALKSA/BuddyLanding/assets/109988277/f6bab9d4-f2b4-4ab3-b499-728a9a8278ba)
+
+
